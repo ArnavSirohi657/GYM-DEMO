@@ -6,7 +6,7 @@ export default function NavBar() {
             <div className="container-fluid">
                 {/* Logo or Site Title */}
                 <NavLink className="navbar-brand fw-bold text-white fs-4" to="/">
-                    GYMFIT <span className="text-warning">FITNESS</span> CENTER
+                    MFIT <span className="text-warning">FITNESS</span> CENTER
                 </NavLink>
 
                 {/* Toggle for mobile */}
